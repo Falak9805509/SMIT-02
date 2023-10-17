@@ -1,0 +1,21 @@
+td{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: center;
+ }
+ body{
+  background-color: white
+ }
+ 
+ h3{
+     color: black
+ }
+ th{
+     padding-left: 10px;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     padding-right: 10px;
+     text-align: center;
+ };
